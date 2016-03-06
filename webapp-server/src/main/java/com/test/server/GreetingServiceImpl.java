@@ -1,6 +1,9 @@
-package com.test;
+package com.test.server;
 
 import com.google.gwt.user.server.rpc.RemoteServiceServlet;
+import com.test.shared.FieldVerifier;
+import com.test.shared.GreetingResponse;
+import com.test.shared.GreetingService;
 
 /**
  * The server side implementation of the RPC service.

@@ -43,7 +43,7 @@
         <groupId>net.ltgt.gwt.maven</groupId>
         <artifactId>gwt-maven-plugin</artifactId>
         <configuration>
-          <moduleName>com.test.App</moduleName>
+          <moduleName>com.test.client.App</moduleName>
           <moduleShortName>webapp</moduleShortName>
         </configuration>
       </plugin>

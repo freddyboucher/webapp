@@ -1,4 +1,4 @@
-package com.test;
+package com.test.shared;
 
 import com.google.gwt.user.client.rpc.RemoteService;
 import com.google.gwt.user.client.rpc.RemoteServiceRelativePath;
