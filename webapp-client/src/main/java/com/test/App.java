@@ -1,4 +1,4 @@
-package com.test.client;
+package com.test;
 
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.core.client.GWT;
